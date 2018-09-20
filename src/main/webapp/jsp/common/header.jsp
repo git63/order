@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%--head banner--%>
 <script type="text/javascript">
     try{ace.settings.check('navbar' , 'fixed')}catch(e){}
@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                    家常菜
+                    我的家常菜
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
